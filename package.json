@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@types/inquirer": "^8.2.3",
     "@types/node": "^18.7.18",
     "@typescript-eslint/eslint-plugin": "^5.38.0",
     "@typescript-eslint/parser": "^5.38.0",
@@ -19,5 +20,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
